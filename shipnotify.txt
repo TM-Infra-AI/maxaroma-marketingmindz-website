@@ -1,0 +1,3 @@
+update pu_order_detail set dtl_ship_method = 'FedEx',dtl_tracking_no = '278317164239',dtl_ship_status='Shipped',dtl_ship_date = '2022-09-23',ostatus='Completed' where orders_id = 227496 \n\rREQUEST : a:7:{s:11:"SS-UserName";s:14:"maxaromacpanel";s:11:"SS-Password";s:16:"1m=zRDwk;D.Js9nm";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"OR227496";s:7:"carrier";s:5:"FedEx";s:7:"service";s:12:"FedEx 2Day®";s:15:"tracking_number";s:12:"278317164239";}
+GET : a:7:{s:11:"SS-UserName";s:14:"maxaromacpanel";s:11:"SS-Password";s:16:"1m=zRDwk;D.Js9nm";s:6:"action";s:10:"shipnotify";s:12:"order_number";s:8:"OR227496";s:7:"carrier";s:5:"FedEx";s:7:"service";s:12:"FedEx 2Day®";s:15:"tracking_number";s:12:"278317164239";}
+

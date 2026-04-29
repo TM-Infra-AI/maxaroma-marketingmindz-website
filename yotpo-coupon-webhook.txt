@@ -1,0 +1,1 @@
+{"secret":"p1m8ysq2s3","coupon_code":"FDJ7SF5V","discount_amount":12,"discount_amount_cents":1200,"currency":"USD","customer_email":"gequaldev@gmail.com"}
